@@ -1,5 +1,5 @@
 <x-frontend-layout>
-    <section class="py-5">
+    <section >
         <div class="container py-3">
             <div class="row">
                 <h3>Poems</h3>
